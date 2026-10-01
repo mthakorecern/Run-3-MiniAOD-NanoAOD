@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.sh
+
+crab_projects
+!run_MiniNano.sh
